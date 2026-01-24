@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there, I am Denzel! 👋
+
+# 🔭 Hobbies and Passion:
+
+# ⚡ Programming Experiences:
+
+# 🌱 Projects & Works:
+
+# 📫 Connect with me:
 
 <!--
 **dzksn/dzksn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
