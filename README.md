@@ -1,24 +1,13 @@
-## Hey there, I am Denzel! 👋
+# Hey there, I am Denzel! 👋
 
-# 🔭 Hobbies and Passion:
+## 🔭 Hobbies and Passion:
 
-# ⚡ Programming Experiences:
+## ⚡ Programming Experiences:
 
-# 🌱 Projects & Works:
+## 🌱 Projects & Works:
 
-# 📫 Connect with me:
+## 📫 Connect with me:
 
-<!--
-**dzksn/dzksn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzksn&layout=donut&theme=tokyonight"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dzksn&show_icons=true&hide=prs,contribs&theme=tokyonight"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
