@@ -1,8 +1,7 @@
 # Hey there, I am Denzel! 👋
 I am a 3rd Year Bachelor of Science in Information Systems at West Visayas State University, focusing on web development and information systems that aims to bridge the gap in 
 aims to bridge the gap between complex data system and engaging digital interfaces.
-
-As an aspiring developer, I find my "sweet spot" at the intersection of Frontend Design and System Structure. I am deeply committed to crafting clean, responsive, and well-organized web architectures. While my primary focus lies in creating aesthetic and intuitive user experiences. Whether I am refining a CSS layout or optimizing a MySQL query, I view every line of code as an opportunity to build more efficient solutions for my community and beyond.
+As an aspiring developer, I find my ideal area at the junction of Frontend Design and System Structure. I am focused in building clean, responsive, and well-organized web structures. My main goal is creating a visually appealing and user-friendly experiences that caters to the users needs. Whether I am improving a CSS layout or optimizing a MySQL query, I see every line of code as a chance to create better solutions with technology for those who needs and deserves it.
 
 
 ## 🔭 Hobbies and Passion
