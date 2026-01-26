@@ -2,7 +2,7 @@
 I am a 3rd Year Bachelor of Science in Information Systems at West Visayas State University, focusing on web development and information systems that aims to bridge the gap in 
 aims to bridge the gap between complex data system and engaging digital interfaces.
 
-As an aspiring developer, I find my "sweet spot" at the intersection of Frontend Design and System Structure. I am deeply committed to crafting clean, responsive, and well-organized web architectures. While my primary focus lies in creating aesthetic and intuitive user experiences, I am also proficient in managing the Backend logic and database integrations necessary to power modern applications. Whether I am refining a CSS layout or optimizing a MySQL query, I view every line of code as an opportunity to build more efficient solutions for my community and beyond.
+As an aspiring developer, I find my "sweet spot" at the intersection of Frontend Design and System Structure. I am deeply committed to crafting clean, responsive, and well-organized web architectures. While my primary focus lies in creating aesthetic and intuitive user experiences. Whether I am refining a CSS layout or optimizing a MySQL query, I view every line of code as an opportunity to build more efficient solutions for my community and beyond.
 
 
 ## 🔭 Hobbies and Passion
