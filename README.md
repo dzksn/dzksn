@@ -13,7 +13,8 @@ aims to bridge the gap between complex data system and engaging digital interfac
 🎨<b>UI/UX Design & Sturcture: </b> I mainly focus on the graphical architecture of web and systems, specifically structuring the front end design codes accrodingly.
 
 
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack </h2>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -39,12 +40,14 @@ aims to bridge the gap between complex data system and engaging digital interfac
 <li>📍 WhatsApp: Denzel</li>
 
 
-## 📊 GitHub Stats
+<h2 align="center"> 📊 GitHub Stats </h2>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=dzksn&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzksn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## ✍️ Dev Quote Of The Day
+<h2 align="center"> ✍️ Dev Quote Of The Day </h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide)
 
 
