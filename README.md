@@ -40,7 +40,7 @@ aims to bridge the gap between complex data system and engaging digital interfac
 
 
 ## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=dzksn&theme=dark&hide_border=false).
+![](https://nirzak-streak-stats.vercel.app/?user=dzksn&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzksn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
