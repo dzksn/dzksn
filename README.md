@@ -31,7 +31,7 @@ aims to bridge the gap between complex data system and engaging digital interfac
 ## 🌱 Project & Work
 🚍 <b>JIMS: Jeepney Information and Management System: </b> A management information systems specifcally designed for Modern Jeepney Transport Cooperatives in the Philippines, that digitalizes their operations to improve efficiency and productivity. 
 
-🍜 <b>SamgyupBowl Integrated Point of Sale (POS) and Inventory Management System: </b> A specialized Point of Sale (POS) and Inventory Management System specifcally designed for a school based MSME that caters to the enterprise's needs and supports it operations digitally. 
+🍜 <b>SamgyupBowl Integrated Point of Sale (POS) and Inventory Management System: </b> A specialized Point of Sale (POS) and Inventory Management System specifcally designed for a university based MSME that caters to the enterprise's needs and supports it operations digitally. 
 
 
 ## 📫 Connect With Me
